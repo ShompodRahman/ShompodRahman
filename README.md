@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi, I'm Rashakh Rahman Shompod 👋
 
-<!--
-**ShompodRahman/ShompodRahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student at BRAC University
+🐍 Python Developer
+🤖 Interested in AI, Web Applications, Games, and Competitive Programming
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a Computer Science and Engineering student at BRAC University who enjoys building practical and creative projects using Python. I am passionate about Artificial intelligence, Machine Learning, Modern web applications, and solving programming problems.
+
+I enjoy learning new technologies, experimenting with ideas, and improving my development skills through projects and competitive programming.
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+* Python
+* HTML
+* CSS
+* SQL
+
+### Interests
+
+* Artificial Intelligence
+* Web Application Development
+* Game Development
+* Competitive Programming
+
+---
+
+## 📚 Currently Learning
+
+* Advanced Python
+* AI & Machine Learning
+* Backend Development
+* Data Structures & Algorithms
+
+---
+
+## 🧠 Competitive Programming
+
+I enjoy solving algorithmic problems and improving my logical thinking through competitive programming.
+
+---
+
+## 📌 Goals
+
+* Build impactful AI-powered applications
+* Contribute to open-source projects
+* Improve problem-solving skills
+* Grow as a software engineer
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: [https://github.com/ShompodRahman](https://github.com/ShompodRahman)
+
+---
+
+## ⚡ Fun Fact
+
+I love mechanical keyboards and coding setups as much as I love programming.
